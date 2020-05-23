@@ -6,4 +6,4 @@ DATA_BASE = {
     "user": "netology",
     "password": "netology",
 }  # настройки БД postgresql
-USER_FIX = "polisharik00@yandex.ru"  # 'test_user@email.com'  # постоянный пользователь
+USER_FIX = ""  # 'test_user@email.com'  # постоянный пользователь
